@@ -57,10 +57,10 @@ class Douban:
         t_list=[t_content]
         conn=pymysql.connect(
             host="127.0.0.1",
-            port='3306',
-            user='root',
-            password='',
-            database='douban'
+            port=3306,
+            user="root",
+            password="",
+            database="douban"
         )
         cursor=conn.cursor()
         sql_insert="""
