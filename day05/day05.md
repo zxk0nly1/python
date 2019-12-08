@@ -54,4 +54,4 @@ draw.get_info()
 
 
 
-![wordcloud](.///wordcloud.jpg)
+![wordcloud](.//wordcloud.jpg)
