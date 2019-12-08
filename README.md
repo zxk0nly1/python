@@ -1771,4 +1771,4 @@ draw.get_info()
 
 
 
-![wordcloud](.///wordcloud.jpg)
+![wordcloud](./day05/wordcloud.jpg)
