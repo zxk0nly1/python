@@ -28,7 +28,7 @@ soup=BeautifulSoup(html,"lxml")
 #data=soup.find_all("div",class_="d1")#查找class为d1的信息
 data=soup.select('div > ul > li') #层级选择
 #data=soup.select('div.threadlist_title')#通过选择器属性定位节点信息
-print(data)
+#print(data)
 for i in data:#获取节点的信息
     print(i.text)
     print(i.string)

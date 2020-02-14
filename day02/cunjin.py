@@ -8,7 +8,6 @@ class Cunjin:
     def __init__(self):
         self.url="http://www.gdcjxy.com/index.html"
         self.headers={"User-Agent":random.choice(L)}
-
     def get_html(self,url):#源代码
         res=requests.get(url,headers=self.headers)
         res.encoding="utf-8"
