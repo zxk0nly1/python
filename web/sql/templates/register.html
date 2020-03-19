@@ -1,0 +1,21 @@
+<html>
+
+<head>
+    <title>Register</title>
+</head>
+
+<body>
+
+    {% if message %}
+    <p style="color: red">{{message}}</p>
+    {% endif %}
+    <form action="/register" method="POST">
+        <legend>Please Register:</legend>
+        <p><input name="username" placeholder="Username"></p>
+        <p><input name="password" placeholder="Password" type="password"></p>
+        <p><input name="re_password" placeholder="Repeat Password" type="password"></p>
+        <p><button type="submit">Register</button></p>
+    </form>
+</body>
+
+</html>
