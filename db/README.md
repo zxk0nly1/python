@@ -1,6 +1,6 @@
 ### mysql与sqlite操作
 
-![image-20200320155056875](upload%5Cimage-20200320155056875.png)
+![image-20200320155056875](upload/image-20200320155056875.png)
 
 文件结构及内容
 
@@ -118,4 +118,4 @@ cursor.close()
 conn.close()
 ```
 
-![image-20200320161228032](upload%5Cimage-20200320161228032.png)
+![image-20200320161228032](upload/image-20200320161228032.png)
