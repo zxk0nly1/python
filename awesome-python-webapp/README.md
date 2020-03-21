@@ -6,3 +6,7 @@
 
 [day03](https://github.com/zxk0nly1/python/tree/day03)
 
+[day04](https://github.com/zxk0nly1/python/tree/day04)
+
+[day05](https://github.com/zxk0nly1/python/tree/day05)
+
