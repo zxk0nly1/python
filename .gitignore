@@ -1,0 +1,9 @@
+
+.idea/*
+*.mp4
+InfoSystem/*
+work/*
+__pycache__/
+*.db
+pandas
+.vscode
