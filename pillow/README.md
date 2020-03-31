@@ -20,4 +20,8 @@ $ python ph.py Bilibili Hub
 
 #### 效果
 
+<<<<<<< HEAD
 ![bilihub](./Bilibili%20Hub.png)
+=======
+![bilihub](./Bilibili%20Hub.png)
+>>>>>>> 3d97705d8d741dd7e63e60b709609397edc2498d
